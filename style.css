@@ -23,9 +23,14 @@ h1 {
 
 p {
 	font-family:Tahoma;
-	font-size: 17px;
+	font-size: 17
+	px;
 }
 
 a {
 	color:DarkOrchid
+}
+
+img {
+	width:100%;
 }
